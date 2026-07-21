@@ -5,7 +5,7 @@
 #### Clone & Install
 
 ```
-git clone https://github.com/KambleShalini-23/Abstractive_Text_Summarization
+git clone https://github.com/Srinija1230/Abstractive_Text_Summarization
 ```
 #### Install required packages
 
